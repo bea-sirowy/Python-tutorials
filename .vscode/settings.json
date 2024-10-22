@@ -1,7 +1,18 @@
 {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "notebook.defaultFormatter":"charliermarsh.ruff",
+    "notebook.defaultFormatter": "charliermarsh.ruff",
     "notebook.formatOnCellExecution": true,
     "notebook.formatOnSave.enabled": true
+}
+
+{
+  "notebook.formatOnSave.enabled": true,
+  "notebook.codeActionsOnSave": {
+    "notebook.source.fixAll": "explicit",
+    "notebook.source.organizeImports": "explicit"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  }
 }
