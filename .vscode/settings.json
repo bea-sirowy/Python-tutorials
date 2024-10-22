@@ -1,7 +1,7 @@
 {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "notebook.defaultFormatter": "esbenp.prettier-vscode",
+    "notebook.defaultFormatter":"charliermarsh.ruff",
     "notebook.formatOnCellExecution": true,
     "notebook.formatOnSave.enabled": true
 }
