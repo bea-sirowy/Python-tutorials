@@ -1,1 +1,1 @@
-This repository contains notes and exercises based on "Python for Everybody" course e led by Prof. Ch. Severance, University of Michigan.
+This repository features Jupyter Notebooks with detailed notes and code examples from the "Python for Everybody" specialization, a series of courses led by Prof. Charles Severance from the University of Michigan. 
